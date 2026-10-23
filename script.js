@@ -12,7 +12,7 @@
 // ============================================
 //  WARM-UP: Favorite Colors
 // ============================================
-// Build an array of 3 colors and print each one.
+//Build an array of 3 colors and print each one.
 
 // STEP 1: Create an array called "colors" with exactly
 //         three strings: "red", "green", "blue"
