@@ -72,7 +72,7 @@ console.log("Numbers: " + yourString);
 //         Use a for loop to add each number to a running total.
 //         Print: console.log("Sum: " + sum)
 let sum = 0;
-for (let i=0; i<numbers.length; i++){
+for (let i=0; i < numbers.length; i++){
     sum += numbers[i]
 }
 console.log("Sum: " + sum)
